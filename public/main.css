@@ -1,3 +1,7 @@
 body {
-  background-color: rgb(246,247,248);
+  background-color: rgb(246,247,248)!important;
+}
+
+.ui.large.secondary.pointing.menu {
+  border-bottom: none;
 }
